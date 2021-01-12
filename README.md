@@ -1,1 +1,1 @@
-# SnakeGame
+#  My first game: Nearly "Snake"
